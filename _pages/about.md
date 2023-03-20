@@ -12,10 +12,7 @@ This page records the story of **Genn** from UVa, where he was fortunate enough 
 
 # Timeline
 
-**Mar 10:** First Meet.    
-|    
-**Mar 12:**  Genn Confessed His Love to Christina.
-|   
-**Mar 13:**  Genn Proposed To Take Christina on a Trip to DC. 
-|    
-**Mar 19:**  Genn Told Christina that He is Asian.**
+**Mar 10:** First Meet.       
+**Mar 12:**  Genn Confessed His Love to Christina.     
+**Mar 13:**  Genn Proposed To Take Christina on a Trip to DC.   
+**Mar 19:**  Genn Told Christina that He is Asian.
