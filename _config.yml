@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Christina & Genn's Little Home"
 title_separator          : "-"
 name                     : &name "Christina & Genn's Little Home"
-description              : &description "Genn is currently a Ph.D. student at UVa. He is currenly falling in love with Christina, the most amazing girl in the world, from Florida."
+description              : &description "Genn is currently falling in love with Christina, the most amazing girl in the world."
 url                      : https://christinagenn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "christinagenn.github.io"
@@ -82,8 +82,9 @@ analytics:
 author:
   name             : "Christina & Genn"
   avatar           : "profile.png"
-  bio              : "Genn is currently a graduate student at UVa. He is currenly falling in love with a Christina, the most wonderful girl in the world, from Florida."
-  location         : "Charlottesville, VA; Jacksonville, FL."
+  bio              : "Genn is currently falling in love with Christina, the most amazing girl in the world."
+  location         : "Charlottesville, VA"
+  location         : "Jacksonville, FL"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -96,20 +97,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  #github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  #twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
